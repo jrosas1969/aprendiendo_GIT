@@ -7,4 +7,4 @@ function suma(a, b) {
   t = a + b;
   return t;
 }
-console.log(suma(x1, x2));
+console.log(suma(x1, x2, x1 + x2, x1 + x2));
