@@ -11,3 +11,4 @@ console.log(suma(x1, x2, x1 + x2, x1 + x2));
 
 texto1 = "nuevo mensaje";
 console.log(texto1);
+console.log(texto1 + " para developers");
